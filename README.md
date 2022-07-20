@@ -15,5 +15,5 @@ heelo.csv
 lahore.csv
 
 ### Credits
-credits afaque
+credit goes to afaque
 
