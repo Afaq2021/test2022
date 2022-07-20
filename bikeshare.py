@@ -111,7 +111,11 @@ def user_stats(df):
     # TO DO: Display counts of gender
 
 
+<<<<<<< HEAD
     # TO DO: Display earliest, most recent,  common year of birth
+=======
+    # TO DO: Display earliest,  most common year of birth
+>>>>>>> refectoring
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
